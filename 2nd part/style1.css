@@ -1,0 +1,36 @@
+.child1{
+    margin-left:200px
+}
+div>div{
+    margin: 50px 50px;
+}
+
+.para{
+    color:white;
+    font-size:12px;
+    margin-left:25px
+}
+.flex-container {
+    display: flex;
+flex-direction:row;
+margin-left:40px;
+height:600px}
+
+.lastpara{color:white;
+    margin-left:170px
+
+}
+#last{width:1440px;
+    margin-left:80px;
+    background-color:black;
+    display: flex;
+    flex-direction:row;
+    margin-left:40px
+}
+#image1{
+    padding-left:90px;
+}
+.finalclass{
+    padding-left:340px
+}
+
