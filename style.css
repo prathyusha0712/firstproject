@@ -1,0 +1,60 @@
+.child1{
+    margin-left:200px
+}
+div>div{
+    margin: 50px 50px;
+}
+.button{
+    color:white;
+    background-color: black;
+    border-radius:5px;
+    height:30px
+}
+.input{margin-top:25px;
+    width:150px;
+    padding-top:2px;
+    border-style:solid 3px black;
+    border-width:4px;
+    border-radius: 5px;
+    text-align:center;
+    align-items:center
+
+}
+.para{
+    color:white;
+    font-size:12px;
+    margin-left:25px
+}
+.flex-container {
+    display: flex;
+flex-direction:row;
+margin-left:40px;
+height:600px}
+.last{
+    background-color:#282828;
+     height:298px;
+      width:1440px;
+      padding-left: 0px;
+      display: flex;
+    flex-direction:row;
+    margin-left:70px
+
+}
+.lastpara{color:white;
+    margin-left:170px
+
+}
+#last{width:1440px;
+    margin-left:80px;
+    background-color:black;
+    display: flex;
+    flex-direction:row;
+    margin-left:40px
+}
+#image1{
+    padding-left:90px;
+}
+.finalclass{
+    padding-left:340px
+}
+
